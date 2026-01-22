@@ -8,11 +8,15 @@ orders, menu management, employees, branches, and reporting.
 ---
 
 ## My Role
-- Database design and normalization (ERD, 3NF)
-- Backend development
-- Frontend integration
-- Writing project documentation and reports
-- Implementing CRUD operations and reports
+- Designed and normalized the database (ERD, 3NF)
+- Developed backend functionalities for the admin side
+- Integrated frontend components for the admin dashboard
+- Wrote project documentation and technical reports
+- Implemented CRUD operations and administrative reports
+
+- هة
+- هة
+  
 
 ---
 
@@ -39,5 +43,4 @@ Sensitive information has been removed or replaced with placeholders.
 
 ---
 
-## Author
-Ghada Sawallha
+
