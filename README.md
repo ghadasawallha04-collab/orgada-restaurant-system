@@ -13,11 +13,6 @@ orders, menu management, employees, branches, and reporting.
 - Integrated frontend components for the admin dashboard
 - Wrote project documentation and technical reports
 - Implemented CRUD operations and administrative reports
-
-- هة
-- هة
-  
-
 ---
 
 ## Technologies Used
